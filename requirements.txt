@@ -1,2 +1,5 @@
 transformers
 nltk
+gensim
+numpy>=1.23
+tqdm
